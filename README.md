@@ -4,10 +4,10 @@ Trabalho para a disciplina de Organização de Estrutura de Arquivos
 ## Estatísticas solicitadas
 
 **Maior lista:** 5
-**Menor lista:** 0
-**Média de tamanho:** 0.07770076914435899
 
-### Probabilidades
+**Menor lista:** 0
+
+**Média de tamanho:** 0.07770076914435899
 
 **Probabilidade de encontrar CEP em 1 passo:** 0.9472592151944711
 
